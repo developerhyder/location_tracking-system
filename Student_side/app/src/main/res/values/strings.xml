@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">REVA Bus Tracker</string>
+    <string name="title_activity_code">Code</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bus Tracking System</string>
+    <string name="nav_header_subtitle">Built By Students With ^_^</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Quit</string>
+
+    <string name="menu_home">Query</string>
+    <string name="menu_gallery">TroubleShoot</string>
+    <string name="menu_slideshow">About the APP</string>
+    <string name="menu_tools">About Us</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Quit</string>
+    <string name="manoj">\n\n\tKotapati Sai Manoj\n\tDeveloper</string>
+    <string name="abtmanoj">\nI am a tech enthusiast with a slight twist in the perspective with which I perceive live. Love to live, I live to love food, tech, books and people.\n\n\n</string>
+    <string name="title_activity_mapss">Position</string>
+    <string name="aboutidris">\nI am an tech enthusiast who believes that developers and engineers have super powers (skills) through which they can transform this world into an peaceful place. #developer_powers \n\n</string>
+    <string name="Idris">\n\n\tIdris Shah Hyder\n\tDeveloper</string>
+    <string name="trouble_shoot">\n\n[The Location does not change]\nThere are two key players to this issue \n 1. Your internet connection make sure that you have active ,fast and robust Data connection\n 2. Your bus driver activates location service everyday before he starts the bus. Failing to do so May lead to this issue . Remind your driver about this he will handle the rest.\n\n[The app crashes]\n Please send your android device details to developerhyder@gmail.com We will take care of the bug in the next update.\n\n[I have an Idea to improvise the app]\n New Ideas are always welcomed make sure that you dont add unicorns to them. You can mail them to developerhyder@gmail.com we will do all that there is to bring that idea to life.\n\n[Not satisfied with the apps performance]\nYou can clear cache and restart the app. That should do the trick\n\n\nFurthermore new Updates are always available.</string>
+</resources>
